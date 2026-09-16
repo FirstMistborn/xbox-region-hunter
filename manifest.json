@@ -1,0 +1,20 @@
+{
+  "name": "Xbox Region Hunter",
+  "short_name": "Xbox Hunt",
+  "description": "Compare live Xbox Store prices across regions and find the cheapest country.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07090b",
+  "theme_color": "#07090b",
+  "id": "xbox-region-hunter",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
